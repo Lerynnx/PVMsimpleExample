@@ -1,3 +1,9 @@
+/*
+    Author: Lerynnx (GitHub)
+    Do not remove this Attribution if you use this code.
+    Nottify the author if you want to use this code before using it.
+*/
+
 /*Master*/
 #include <stdio.h>
 #include <stdlib.h>
